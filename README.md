@@ -1,4 +1,4 @@
-# Hi everyone ! It's Gulpembe 🌷
+# Hi everyone ! It's Gulpembe 🌺
 
 ### I'm a Mechatronics Engineer, but I have been developing myself as a Software Test Engineer for a while!
 
