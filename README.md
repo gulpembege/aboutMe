@@ -4,8 +4,8 @@
 
 
 ### So you can always contact and learn more about with me with these way!
-- [LinkedIn](www.linkedin.com/in/gulpembegemicioglu)
-- [E-posta](mailto:gulpembe.gemicioglu@hotmail.com)
+- LinkedIn : www.linkedin.com/in/gulpembegemicioglu
+- E-mail : gulpembe.gemicioglu@hotmail.com
 
   ## Languages I Use
 
