@@ -1,6 +1,6 @@
 # Hi everyone ! It's Gulpembe 🌷
 
-### I'm a Mechatronics Engineer, but I have been developing myself as a Software Testing Engineer for a while!
+### I'm a Mechatronics Engineer, but I have been developing myself as a Software Test Engineer for a while!
 
 
 ### So you can always contact and learn more about with me with these way!
